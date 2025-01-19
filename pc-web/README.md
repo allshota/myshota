@@ -1,3 +1,10 @@
-[查看手机网页操作](https://github.com/allshota/myshota/tree/main/Mobile-web)
-[查看手机APP操作](https://github.com/allshota/myshota/tree/main/Mobile-APP)
-[查看电脑网页操作](https://github.com/allshota/myshota/tree/main/pc-web)
+## 首先打开[这个](https://www.myshota.org)
+
+
+![游客登录](https://github.com/allshota/myshota/blob/main/pc-web/pc-wbe-1.png)
+
+## 点击 **游客登录**
+
+## ![](https://github.com/allshota/myshota/blob/main/pc-web/pc-wbe-2.png)
+
+## ![](https://github.com/allshota/myshota/blob/main/pc-web/pc-wbe-3.png)
