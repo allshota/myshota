@@ -1,3 +1,1 @@
-[查看手机网页操作](https://github.com/allshota/myshota/tree/main/Mobile-web)
-[查看手机APP操作](https://github.com/allshota/myshota/tree/main/Mobile-APP)
-[查看电脑网页操作](https://github.com/allshota/myshota/tree/main/pc-web)
+# 我不想写文件了，自己看图片，从1开始看
